@@ -7,6 +7,6 @@ I am a student at univeristy of exeter currently studying Computer Science.
 
 I am not particularly good at using github but i'm trying to get better
 
-##Changes made from GitHub Desktop
+## Changes made from GitHub Desktop
 
 Here are the changes I have made to the project from the desktop GitHub application
